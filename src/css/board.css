@@ -1,0 +1,16 @@
+.board {
+    width: 30vw;
+    height: 50%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.input {
+    border: 1px solid black;
+    height: 33.33%;
+    width: 32.33%;
+    display: flex;
+    color: black;
+}
